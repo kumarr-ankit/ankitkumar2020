@@ -19,33 +19,23 @@ I am passionate about creating efficient, scalable, and impactful software solut
 - **Languages:** Java, C++, JavaScript, HTML, CSS
 - **Areas of Interest:** Web Development, Android Development, Data Structures & Algorithms
 
----
-
-## 📊 Languages & Stats
-
-### **Languages Used Across Repositories**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitk2021&layout=pie&hide=javascript&theme=radical)](https://github.com/Ankitk2021?tab=repositories)
-
-### **Contribution Graph**
-![Ankit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankitk2021&theme=radical)
-
-### **GitHub Stats**
-![Ankitk2021's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankitk2021&show_icons=true&theme=radical)
-
----
-
+  ---
 ## 🚀 Highlight Projects
 
-- [**Breed-Detector**](https://github.com/Ankitk2021/Breed-Detector): Intelligent solution for animal breed detection using machine learning.
-- [**StudentManagementSystem**](https://github.com/Ankitk2021/StudentManagementSystem): Efficient management system for handling student data and operations.
+- [**Breed-Detector**](https://github.com/Ankitk2021/Breed-Detector):  Intelligent solution for animal breed detection using machine learning.
+- [**StudentManagementSystem**](https://github.com/Ankitk2021/StudentManagementSystem):  Efficient management system for handling student data and operations.
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitk2021&layout=compact&hide=javascript)](https://github.com/Ankitk2021?tab=repositories)
+
+### **Contribution Graph**
+![Ankit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankitk2021&theme=github-compact)
+
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect 
 
 - 🌐 [GitHub](https://github.com/Ankitk2021)
 - 📍 India
-
-
 ---
 
 > “Striving for excellence, one line of code at a time.”
