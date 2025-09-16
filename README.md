@@ -22,7 +22,7 @@ I am passionate about creating efficient, scalable, and impactful software solut
   ---
 ## 🚀 Highlight Projects
 
-- [**Breed-Detector**](https://github.com/Ankitk2021/Breed-Detector):  Intelligent solution for animal breed detection using machine learning.
+- [**Breed_Detector**]([https://github.com/Ankitk2021/Breed-Detector](https://github.com/Ankitk2021/Breed_Detector)):  Intelligent solution for animal breed detection using machine learning.
 - [**StudentManagementSystem**](https://github.com/Ankitk2021/StudentManagementSystem):  Efficient management system for handling student data and operations.
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitk2021&layout=compact&hide=javascript)](https://github.com/Ankitk2021?tab=repositories)
