@@ -19,19 +19,19 @@ I am passionate about creating efficient, scalable, and impactful software solut
   ---
 ## 🚀 Highlight Projects
 
-- [**Breed_Detector**](https://github.com/Ankitk2021/Breed_Detector):  Intelligent solution for animal breed detection using machine learning.
-- [**StudentManagementSystem**](https://github.com/Ankitk2021/StudentManagementSystem):  Efficient management system for handling student data and operations.
+- [**Breed_Detector**](https://github.com/ankitkumar2020/Breed_Detector):  Intelligent solution for animal breed detection using machine learning.
+- [**StudentManagementSystem**](https://github.com/ankitkumar2020/StudentManagementSystem):  Efficient management system for handling student data and operations.
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitk2021&layout=compact&hide=javascript)](https://github.com/Ankitk2021?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar2020&layout=compact&hide=javascript)](https://github.com/ankitkumar2020?tab=repositories)
 
 ### **Contribution Graph**
-![Ankit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankitk2021&theme=github-compact)
+![Ankit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar2020&theme=github-compact)
 
 ---
 
 ## 🤝 Let's Connect 
 
-- 🌐 [GitHub](https://github.com/Ankitk2021)
+- 🌐 [GitHub](https://github.com/ankitkumar2020)
 - 📍 India
 ---
 
